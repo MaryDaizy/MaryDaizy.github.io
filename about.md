@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About Me
-description: Joannah Nanjekye
+description: Daisy Nakitende
 permalink: /about/
 ---
 <br>
 
 <!-- <img src="{{ site.baseurl }}/index.jpg" title="Profile Picture" class="profile"> -->
 
-I am a christian software engineer , Proud Aviator, Aeronautical engineering student and self certified cessna captain. Call me captain at your own risk.
+I am a developer , Proud Aviator, a student at TUNGA trying to get there, focused on being a fullstack  web developer as I take it step by step.
 
-I am an open source ethusiast since my time as Rails girls summer of code student working on qutebrowser, a keyboard based browser based on pyqt5. And currently doing outreachy with Ceph.
 
 God, Code and Aircrafts we can talk about these like forever. In that order save the last two keep competiting for priority. 
 
